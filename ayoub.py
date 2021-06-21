@@ -9,5 +9,5 @@ a,b,c=1,2,3
 print(a,b,c)
 
 
-name=raw_input("ayoub")
+name = input("ayoub")
 
