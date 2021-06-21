@@ -4,3 +4,4 @@ print(a)
 b=5
 print(b)
 import ayoub
+print(type(a))
